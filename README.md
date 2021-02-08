@@ -1,4 +1,4 @@
-# Gram OOD Classifier
+# Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations
 
 Code for "Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations", ICASSP 2021 by Antonio Joia Neto, Andre Georghton Cardoso Pacheco and Diogo Carbonera Luvizon
 
